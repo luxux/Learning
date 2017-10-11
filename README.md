@@ -1,6 +1,6 @@
 # Learning
 
-## c,c++,c#,java,javascript,go,ruby等学习的编程语言基础流程
+## c,c++,c#,java,javascript,go,ruby等学习的编程语言基础语法
 
 1. 基础数据类型。整形、浮点、字符、数组(某种数据类型的集合)
 2. 变量
